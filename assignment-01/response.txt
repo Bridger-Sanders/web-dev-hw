@@ -1,1 +1,16 @@
+6. How is the web different than the internet?
+    The internet is the network people us to access the web.
+    The web is the pool of knowledge accessed by connecting to the internet.
 
+7. Briefly describe how the internet works.
+    Clients use routers to connect to internet service providers, 
+    from there the isp connects them to the internet and leads them to
+    the server they were searching for through the use of ip addresses.
+
+8. What is a directory, and what is its relationship to files?
+    A directory is a folder used to organize more folders or files, used for file systems.
+    Files are organized within directories.
+
+9. Why is using a VCS beneficial?
+    It allows a developer or writer to track their changes to a file,
+    revert back if it doesn't work, and collaborate with others.
