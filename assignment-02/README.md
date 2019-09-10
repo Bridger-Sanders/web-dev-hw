@@ -9,3 +9,9 @@ to have any form of knowledge, you never know when you might need it.
 ### 3 things I've learned
 I've learned how data travels on the internet, how to utilize headings, and the
 difference between absolute and relative URL.
+### Frequent Website
+http://www.newgrounds.com
+### Responses.txt Using Relative URL
+![responses](./responses.txt)
+### Image Using Relative URL
+![screenshot](./images/screenshot.png)
