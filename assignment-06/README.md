@@ -1,0 +1,6 @@
+13. Describe any forms you've come across while browsing the web. What purposes do the serve?
+- Usually the forms I come across navigate me to another page focused on the main websites tabs. For example, if I click on sign up or log in, I'm taken to a page that lets me do that. If I want to know more about certain things, contact the websites company, create an account, etc. there are forms for that.
+14. List examples of a text, selection, and button input, and where they might be used.
+- Usually anything related to search or storing small information is what text is used for. It can be found when filling out log in or personal information. Selection is good for tests, surveys, or checking terms and conditions. Buttons usually do something related to things above it such as, submitting information or taking you to another page. Text, selection, and buttons can all be found usually when making an account on a website.
+15. Free Response: Summarize your work cycle for this assignment.
+- I went through the homework step by step, anytime I got lost I wood reference module 6. If I could find what I was looking for I would ask master google for more information, thus directing me to the answer I was seeking. Lastly, I double checked to make sure all requirements were filled out, but sometimes I just give up and call it good when instructions are too vague.
