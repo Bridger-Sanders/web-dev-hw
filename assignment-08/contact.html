@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="The contact page for assignment 8">
+    <meta name="author" content="Bridger Sanders">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+      body {
+        background-color: darkslategray;
+        text-align: left;
+        color: azure;
+      }
+      nav{
+        text-align: center;
+      }
+      h1 {
+        text-align: center;
+      }
+      a {
+        background-color: azure;
+        color: darkslategray;
+        padding: 3px;
+        font-size: 170%;
+      }
+      table, tr, th {
+        text-align: center;
+        border: 2px solid azure;
+      }
+      fieldset {
+        width: 13%;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="./index.html">Home</a>
+      <a href="./contact.html">Contact</a>
+      <a href="./about.html">About</a>
+    </nav>
+    <h1>Contact</h1>
+    <div>
+    <table>
+      <tr>
+        <th></th>
+        <th scope="col">Weekdays</th>
+        <th scope="col">Saturday</th>
+        <th scope="col">Sunday</th>
+      </tr>
+      <tr>
+        <th scope="row">Hours</th>
+        <th>9am-5pm</th>
+        <th>10am-4pm</th>
+        <th>Closed</th>
+      </tr>
+    </div>
+    <div>
+      <form action="https://www.projectpuppet.com/contact-us/" method="post">
+   <h3>Info Sheet</h3>
+   <fieldset>
+      <label>Name:<br />
+         <input type="text" name="name" /></label>
+      <br />
+      <label>Email:<br />
+         <input type="text" name="email" /></label>
+      <br />
+      <label>Subject:<br />
+         <input type="text" name="subject" /></label>
+         <input type="submit" name="submit" value="Submit"/>
+   </fieldset>
+    </table>
+  </div>
+  </body>
+</html>
