@@ -1,0 +1,30 @@
+body{
+  background-color: #c4e2dd;
+}
+.navigation{
+  background-color: #99a4c7;
+}
+.nav-block{
+  background-color: #99a4c7;
+  display: inline;
+  font-size: 2em;
+  font-family: sans-serif;
+}
+.nav-block:hover{
+  background-color: #9873ab;
+  color: #c4e2dd;
+}
+.dropdown{
+  display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #aec9d4
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+  background-color: #99a4c7;
+}
