@@ -3,12 +3,13 @@ body{
 }
 .navigation{
   background-color: #99a4c7;
+  position: static;
 }
 .nav-block{
   background-color: #99a4c7;
   display: inline;
   font-size: 2em;
-  font-family: sans-serif;
+  font-family: Tahoma, Verdana;
 }
 .nav-block:hover{
   background-color: #9873ab;
@@ -27,4 +28,7 @@ body{
 }
 .dropdown-item:hover, .dropdown-item:hover a {
   background-color: #99a4c7;
+}
+p {
+  font-family: Georgia, Times;
 }
