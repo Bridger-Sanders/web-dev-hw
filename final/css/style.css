@@ -1,0 +1,26 @@
+nav {
+  background-color: #223f57;
+}
+.dropdown {
+  display: inline-block;
+}
+.dropdown:hover {
+  background-color: #315b7d
+}
+a {
+  color: #7d9cb6;
+  text-decoration-line: none;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #223f57
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+  background-color: #315b7d
+}
