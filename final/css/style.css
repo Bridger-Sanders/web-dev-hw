@@ -1,5 +1,32 @@
+body {
+  background-color: #4f7696;
+}
 nav {
   background-color: #223f57;
+}
+.index-top {
+  background-color: #7d9cb6;
+}
+.index-middle {
+  background-color: #7d9cb6;
+}
+.index-bottom {
+  background-color: #7d9cb6;
+}
+.about-top {
+  background-color: #7d9cb6;
+}
+.about-bottom {
+  background-color: #7d9cb6;
+}
+.services-top {
+  background-color: #7d9cb6;
+}
+.services-middle {
+  background-color: #7d9cb6;
+}
+.services-bottom {
+  background-color: #7d9cb6;
 }
 .dropdown {
   display: inline-block;
@@ -9,6 +36,7 @@ nav {
 }
 a {
   color: #7d9cb6;
+  font-size: 20pt;
   text-decoration-line: none;
   text-decoration-style: initial;
   text-decoration-color: initial;
