@@ -98,6 +98,28 @@ a {
   margin-left: -10pt;
   position: static;
 }
+.contact-form {
+  background-color: #7d9cb6;
+  padding-top: 50pt;
+  padding-bottom: 1pt;
+  padding-left: 20pt;
+  margin-top: 23pt;
+  margin-right: 66%;
+  margin-bottom: -10pt;
+  margin-left: -10pt;
+  position: static;
+}
+.contact-table {
+  background-color: #7d9cb6;
+  font-size: 16pt;
+  padding-right: 10pt;
+  padding-bottom: 455.5pt;
+  padding-left: 20pt;
+  margin-top: 10pt;
+  margin-right: 66%;
+  margin-left: -10pt;
+  position: static;
+}
 .services-top {
   background-color: #7d9cb6;
   text-align: center;
