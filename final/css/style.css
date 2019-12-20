@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Coustard&display=swap');
 body {
   background-color: #4f7696;
 }
@@ -26,15 +27,15 @@ a {
   text-decoration-color: initial;
 }
 .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #223f57;
+  display: none;
+  position: absolute;
+  background-color: #223f57;
 }
 .dropdown:hover .dropdown-content {
-    display: block;
-    padding-right: 5pt;
-    padding-left: 10pt;
-    margin-left: -10pt;
+  display: block;
+  padding-right: 5pt;
+  padding-left: 10pt;
+  margin-left: -10pt;
 }
 .dropdown-item:hover, .dropdown-item:hover a {
   background-color: #315b7d;
@@ -42,6 +43,35 @@ a {
   padding-left: 10pt;
   margin-right: -5pt;
   margin-left: -10pt;
+}
+.profile-pic {
+  position: absolute;
+  margin-top: 47pt;
+  margin-left: 655pt;
+}
+img {
+  border-radius: 100%;
+  border: 5pt solid #223f57;
+}
+.mail {
+  position: absolute;
+  margin-top: 220pt;
+  margin-left: 727pt;
+}
+.work {
+  position: absolute;
+  margin-top: 120pt;
+  margin-left: 655pt;
+}
+iframe {
+  border-top-right-radius: 25pt;
+  border-top-left-radius: 100pt;
+  border-bottom-right-radius: 100pt;
+  border-bottom-left-radius: 25pt;
+  border: 5pt solid #223f57;
+}
+h1, h2 {
+
 }
 .index-top {
   background-color: #7d9cb6;
@@ -69,7 +99,7 @@ a {
   font-size: 16pt;
   text-indent: 26pt;
   padding-top: 100pt;
-  padding-right: 10pt;
+  padding-right: 20pt;
   padding-bottom: 187.5pt;
   padding-left: 20pt;
   margin-right: 66%;
@@ -91,7 +121,7 @@ a {
   font-size: 16pt;
   text-indent: 26pt;
   padding-top: 50pt;
-  padding-right: 10pt;
+  padding-right: 15pt;
   padding-bottom: 203pt;
   padding-left: 20pt;
   margin-right: 66%;
@@ -100,9 +130,9 @@ a {
 }
 .contact-form {
   background-color: #7d9cb6;
+  text-align: center;
   padding-top: 50pt;
   padding-bottom: 1pt;
-  padding-left: 20pt;
   margin-top: 23pt;
   margin-right: 66%;
   margin-bottom: -10pt;
@@ -114,7 +144,7 @@ a {
   font-size: 16pt;
   padding-right: 10pt;
   padding-bottom: 455.5pt;
-  padding-left: 20pt;
+  padding-left: 176pt;
   margin-top: 10pt;
   margin-right: 66%;
   margin-left: -10pt;
